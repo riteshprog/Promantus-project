@@ -8,6 +8,8 @@
 	border:1px solid black;
 	margin-top: 1rem;
 }
+
+
 .navbar {
 	font-weight: 300;
 	box-shadow: none;
@@ -77,6 +79,10 @@ li{
 .frontend{
 	border:1px solid black;
 	margin-bottom: 1rem;
+}
+
+.frontend p.description{
+	width:80%;
 }
 .step-title{
 	width:100px !important;
